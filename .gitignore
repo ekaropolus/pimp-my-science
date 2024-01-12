@@ -1,0 +1,17 @@
+# .gitignore
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore database files
+db.sqlite3
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore media files (user-uploaded content)
+media/
+
+.env
